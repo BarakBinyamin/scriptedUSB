@@ -1,1 +1,1 @@
-curl -s https://barakbinyamin.github.io/scriptedUSB/img/example.txt
+curl -s https://barakbinyamin.github.io/scriptedUSB/img/MerryChristmas.txt
