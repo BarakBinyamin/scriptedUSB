@@ -20,3 +20,5 @@ Pre-program a usb keyboard with just the right keystrokes
 - [Setup to skip mac keyboard setup](https://null-byte.wonderhowto.com/how-to/hack-macos-with-digispark-ducky-script-payloads-0198555/)
 - [Char code references](https://github.com/digistump/DigistumpArduino/blob/master/digistump-avr/libraries/DigisparkKeyboard/DigiKeyboard.h)
 - Check your work, and see what keys are pressed at [https://keyboardchecker.com/](https://keyboardchecker.com/)
+- [Asci art generator](https://patorjk.com/software/taag/#p=display&h=0&v=0&f=3D-ASCII&t=Hello), favorites are train and 3D ascii
+
