@@ -1,10 +1,10 @@
 curl -s https://barakbinyamin.github.io/scriptedUSB/img/forHeather.txt
 
-curl https://someresources.github.io/songs/boss.m4a -o boss.m4a
+curl -s https://someresources.github.io/songs/boss.m4a -o boss.m4a
 open boss.m4a --hide
 
 #set general volume
-osascript -e "set volume 3"
+osascript -e "set volume 5"
 
 for i in {1..15}; do
 	volume=`echo "$(( i / 10)).$(( i % 10))"`
