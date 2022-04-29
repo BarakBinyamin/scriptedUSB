@@ -6,10 +6,10 @@ open boss.m4a --hide
 #set general volume
 osascript -e "set volume 5"
 
-for percent in {1..50}; do
+for percent in {1..100}; do
 	volume=$percent
 
 	#set itunes volume
 	osascript -e "tell application \"Music\" to set sound volume to $volume"
-	sleep .1
+	sleep .01
 done
