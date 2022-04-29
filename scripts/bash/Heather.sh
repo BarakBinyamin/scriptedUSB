@@ -6,8 +6,8 @@ open boss.m4a --hide
 #set general volume
 osascript -e "set volume 5"
 
-for i in {1..15}; do
-	volume=`echo "$(( i / 10)).$(( i % 10))"`
+for percent in {1..15}; do
+	volume=$percent
 
 	#set itunes volume
 	osascript -e "tell application \"Music\" to set sound volume to $volume"
