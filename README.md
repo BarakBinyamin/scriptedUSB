@@ -21,4 +21,5 @@ Pre-program a usb keyboard with just the right keystrokes
 - [Char code references](https://github.com/digistump/DigistumpArduino/blob/master/digistump-avr/libraries/DigisparkKeyboard/DigiKeyboard.h)
 - Check your work, and see what keys are pressed at [https://keyboardchecker.com/](https://keyboardchecker.com/)
 - [Asci art generator](https://patorjk.com/software/taag/#p=display&h=0&v=0&f=3D-ASCII&t=Hello), favorites are train and 3D ascii
+- [Upgrade bootloader to drop the delay](http://digistump.com/board/index.php/topic,320.msg1711.html#msg1711)
 
