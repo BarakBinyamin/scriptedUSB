@@ -4,7 +4,7 @@
  * 
  * To code your own digispark in an arduino IDE:
  *  1. Under File > Preferences > add http://digistump.com/package_digistump_index.json to board manager links
- *  2. Install digistump avr baords under  tools > boards > boards manager
+ *  2. Install digistump avr baords under  tools > boards > boards manager (search digistump)
  *  3. Select the defualt board under tools > board > digistump avr boards >  digispark (default)
  *  4. Select the programmer under Tools > Programmer > Micronuclues
  *  5. Select upload first, then plug in your digispark within 60 seconds of pressing upload (the arrow in the top left)
