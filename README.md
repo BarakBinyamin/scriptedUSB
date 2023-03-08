@@ -5,10 +5,6 @@ Pre-program a usb keyboard with just the right keystrokes
   <img height="200px" src="img/digispark.jpeg">
 </p>
 
-### Directory    
-1. [Setup](#setup)
-2. [Resources](#resources)
-
 ## Setup
 1. Obtain a disgipark development board, available [here](https://www.ebay.com/sch/i.html?_nkw=digispark)
 2. [Code your own digispark](https://github.com/BarakBinyamin/scriptedUSB/blob/main/arduinoSketches/autoHIDexample/autoHIDexample.ino) in an [arduino IDE](https://www.arduino.cc/en/software)
