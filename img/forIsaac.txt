@@ -1,3 +1,5 @@
+
+
 Isaac,
  _______  __   __  _______  __    _  ___   _    __   __  _______  __   __  __  
 |       ||  | |  ||   _   ||  |  | ||   | | |  |  | |  ||       ||  | |  ||  | 
@@ -8,9 +10,12 @@ Isaac,
   |___|  |__| |__||__| |__||_|  |__||___| |_|    |___|  |_______||_______||__| 
 
 Thank you for bringing me on to help out, 
-I learned an incredible amount in a short period of time, and I couldn't have recieved better feedback
+I learned an incredible amount in a short period of time, and I couldn't have
+recieved better feedback
 
 Thank you for being a great mentor and friend
 
 Best wishes,
 Rocky
+
+
