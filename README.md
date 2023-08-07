@@ -2,7 +2,7 @@
 Pre-program a usb keyboard with just the right keystrokes
 
 <p align="center">
-  <img height="200px" src="img/digispark2.png">
+  <img height="200px" src="img/digispark.jpeg">
 </p>
 
 ## Setup
