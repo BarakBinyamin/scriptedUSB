@@ -26,6 +26,9 @@
  *  For example "ctrl+alt+t": DigiKeyboard.sendKeyStroke(KEY_T, MOD_ALT_LEFT | MOD_CONTROL_LEFT)
  *  
  * For Resolving GCC error on MacOS Monterary: https://forum.arduino.cc/t/avr-g-bad-cpu-type-in-executable/595790/14
+ * cd ~/Library/Arduino15/packages/arduino/tools/avr-gcc
+ * mv 4.8.1-arduino5 orig.4.8.1
+ * ln -s /Applications/Arduino.app/Contents/Java/hardware/tools/avr 4.8.1-arduino5
  *
  */
 bool ran = false;
